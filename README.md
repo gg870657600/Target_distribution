@@ -14,3 +14,5 @@ npm run dev
 ![image](https://github.com/gg870657600/Target_distribution/blob/gh-pages/src/img/login.jpg)
 
 ![image](https://github.com/gg870657600/Target_distribution/blob/gh-pages/src/img/main.jpg)
+
+![image](https://github.com/gg870657600/Target_distribution/blob/gh-pages/src/img/main.jpg)
