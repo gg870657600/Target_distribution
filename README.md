@@ -1,4 +1,4 @@
-# mb目标分发，半成品
+# mb目标分发，半成品...
 
 > A Vue.js project
 
