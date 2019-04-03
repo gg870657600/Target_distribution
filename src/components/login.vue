@@ -130,6 +130,7 @@
         border-radius: 5px;
         background: darkslategray;
         overflow: hidden;
+		height: 320px;
     }
     .ms-content{
         padding: 30px 30px;
