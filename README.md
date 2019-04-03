@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` bash
+
 # install dependencies
 npm install
 
@@ -15,4 +15,3 @@ npm run dev
 
 ![image](https://github.com/gg870657600/Target_distribution/blob/gh-pages/src/img/main.jpg)
 
-![image](https://github.com/gg870657600/-filezilla/blob/master/image/%E7%95%8C%E9%9D%A2.png)
