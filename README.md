@@ -1,4 +1,4 @@
-# mb
+# 目标分发,半成品
 
 > A Vue.js project
 
@@ -11,17 +11,6 @@ npm install
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+![image](https://github.com/gg870657600/Target_distribution/blob/gh-pages/src/img/login.jpg)
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://github.com/gg870657600/Target_distribution/blob/gh-pages/src/img/main.jpg)
